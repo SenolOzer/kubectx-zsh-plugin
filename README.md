@@ -1,5 +1,5 @@
 # kubectx-zsh-plugin
-Alias for kubectx 
+The kubectx plugin for Oh My Zsh provides many aliases.
 
 ## Installation
 
@@ -14,7 +14,7 @@ To use it, add `kubectx` to the plugins array in your zshrc file:
   
   ## Aliases
   
- |Alias.   |Command      |
+ |Alias    |Command      |
  |:--------|:------------|
  |kx       | kubectx     |
  |kxc      |kubectx -c   |
